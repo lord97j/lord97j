@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lord97j
-- 👀 I’m interested in AI、Security、、、
-- 🌱 I’m currently learning Applications of ChatGPT in Security
+- 👀 I’m interested in AI、Next、、、
+- 🌱 I’m currently learning Applications of ChatGPT in Web
 - 📫 How to reach me lord97j@gmail.com
 
 <!---
